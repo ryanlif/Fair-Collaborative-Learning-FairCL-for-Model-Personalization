@@ -1,0 +1,24 @@
+##############################################
+Method: IL
+Mean test accuracy:   74.27 %
+Worst 10% accuracy:  8.17 %
+Best 10% accuracy:   100.00 %
+Variance:             645.17
+##############################################
+Method: CL
+Mean test accuracy:   92.94 %
+Worst 10% accuracy:  47.00 %
+Best 10% accuracy:   100.00 %
+Variance:             190.65
+##############################################
+Method: FairCL-BIL
+Mean test accuracy:   92.95 %
+Worst 10% accuracy:  57.58 %
+Best 10% accuracy:   100.00 %
+Variance:             162.83
+##############################################
+Method: FairCL-RRW
+Mean test accuracy:   98.14 %
+Worst 10% accuracy:  64.17 %
+Best 10% accuracy:   100.00 %
+Variance:             59.06
