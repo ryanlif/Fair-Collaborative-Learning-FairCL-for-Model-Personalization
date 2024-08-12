@@ -8,3 +8,4 @@ CMAPSS:
 
 ``` python main_cmapss.py ```
 
+**NOTE:** Due to privacy issues, the SSI dataset is not publicly available. 
