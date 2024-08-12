@@ -8,7 +8,3 @@ CMAPSS:
 
 ``` python main_cmapss.py ```
 
-SSI:
-
-``` python main_ssi.py ```
-
